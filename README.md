@@ -1,5 +1,5 @@
 live project click 
-https://geekcvnet.vercel.app/
+https://geekmovie.vercel.app/movie
 
 ## Getting Started
 
